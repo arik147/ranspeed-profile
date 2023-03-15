@@ -350,6 +350,14 @@ header .navbar a:hover {
         gap: 16px;
     }
 
+    header .logo {
+        max-height: 40px;
+    }
+
+    header .navbar a {
+        font-size: 14px;
+    }
+
     .landing-page {
         align-items: start;
         justify-content: center;
